@@ -10,6 +10,12 @@ ela mistura estilos a partir de um prompt. Inclui 10 perguntas com gráficos e c
 de um bloco final comparando músicas-tema de Copa do Mundo e a "receita" de prompt usada para
 compor uma música ao vivo.
 
+## Vídeo de apresentação
+
+[![Vídeo de apresentação do projeto](https://img.youtube.com/vi/hlsJ44ksWX4/maxresdefault.jpg)](https://youtu.be/hlsJ44ksWX4)
+
+▶️ [Assista ao vídeo de apresentação no YouTube](https://youtu.be/hlsJ44ksWX4)
+
 ## Arquivos
 
 - `Projeto_Final_Suno_IA_Musica.ipynb` — notebook com toda a análise.
